@@ -3,7 +3,7 @@
 </div>
   
 
-### <div align="center" width="200">Hi there 👋, I am Jassi, a young Indian developer.</div>
+### <div align="center" width="200">Hi there 👋, I am Jassi, a young developer.</div>
 
 <p align="center">
     <a href="mailto:jassagillam@gmail.com">

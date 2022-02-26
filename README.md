@@ -9,10 +9,10 @@
     <a href="mailto:jassagillam@gmail.com">
         <img src="https://img.shields.io/badge/gmail-%23ff4343.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://discordapp.com/users/256769299954401280">
+    <a href="https://discordapp.com/users/692744567447093318">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
-    <a href="https://discordapp.com/users/256769299954401280">
+    <a href="https://www.instagram.com/iam_jassigill_/">
         <img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
 </p>

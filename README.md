@@ -82,6 +82,7 @@
                 <img src="https://img.shields.io/badge/Linux-F7F7F7?style=for-the-badge&logo=linux&logoColor=black" />
                 <img src="https://img.shields.io/badge/Figma-F7F7F7?style=for-the-badge&logo=figma&logoColor=a259ff" />
                 <img src="https://img.shields.io/badge/Firebase-F7F7F7?style=for-the-badge&logo=firebase&logoColor=FFA611" />
+                <img src="https://img.shields.io/badge/Flutter-F7F7F7?style=for-the-badge&logo=flutter&logoColor=03A9F4" />
 <!--                 <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&logoColor=black" /> -->
             </td>
         </tr>

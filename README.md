@@ -54,6 +54,7 @@
                <img src="https://img.shields.io/badge/HTML-F4470B?style=for-the-badge&logo=html5&logoColor=white" />
                <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
                <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+               <img src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white" />
 <!--                 <img src="https://img.shields.io/badge/Svelte-F73C00?style=for-the-badge&logo=svelte&logoColor=white" /> -->
                <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <!--                <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" /> -->

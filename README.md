@@ -21,7 +21,7 @@
 
 - 🏫 Current Studying At: IIT Roorkee.
 
-- 🎨 I do Art Sometimes.
+- 🎨 I also do sketching and doodling.
 
 - 💡 Interested in: 💻 Full-Stack Development + 📱 App Developement
  

@@ -19,7 +19,7 @@
   
 <br>
 
-- 🏫 Current Studying At: IIT Roorkee.
+- 🏫 IIT Roorkee Undergrad.
 
 - 🎨 I also do sketching and doodling.
 

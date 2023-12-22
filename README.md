@@ -18,12 +18,6 @@
 </p>
   
 <br>
-
-- 🏫 IIT Roorkee Undergrad.
-
-- 🎨 I also do sketching and doodling.
-
-- 💡 Interested in: 💻 Full-Stack Development + 📱 App Developement
  
 
 <!-- ## ℹ About me -->

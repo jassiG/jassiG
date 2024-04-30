@@ -3,7 +3,7 @@
 </div>
   
 
-### <div align="center" width="200">{Who?} Jassi {What} Web Dev & Mobile Dev {Why} Cause I like to</div>
+### <div align="center" width="200">I make websites and stuff</div>
 
 <p align="center">
     <a href="mailto:jassagillam@gmail.com">

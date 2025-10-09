@@ -3,7 +3,7 @@
 </div>
   
 
-### <div align="center" width="200">I make websites and stuff</div>
+### <div align="center" width="200">I like creating stuff</div>
 
 <p align="center">
     <a href="mailto:jassagillam@gmail.com">

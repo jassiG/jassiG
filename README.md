@@ -17,7 +17,6 @@
 <br>
  
 
-<!-- ## ℹ About me -->
 
 <!-- ## 👨‍💻 What I've Done
 

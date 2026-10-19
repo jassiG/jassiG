@@ -15,14 +15,3 @@
 </p>
   
 <br>
- 
-
-
-<!-- ## 👨‍💻 What I've Done
-
-<div align="center">
-    
-[🥋 Aïkido Roncq](https://www.aikido-roncq.fr) | [⌨️ Typospeed](http://typospeed.iamludal.fr) | [🚀 Cryptac](https://play.google.com/store/apps/details?id=fr.iamludal.cryptac) | [⚙️ MySQL-QueryBuilder](https://github.com/iamludal/MySQL-Querybuilder)  
---- | --- | --- | ---
-
-</div> -->
